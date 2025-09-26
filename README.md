@@ -1,2 +1,2 @@
 # GeneralPython
-General python code that Ive done, nothing crazy
+General python code that Ive done
